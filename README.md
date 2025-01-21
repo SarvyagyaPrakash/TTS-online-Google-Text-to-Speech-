@@ -1,10 +1,5 @@
-Name- Sarvyagya Prakash
-ID:CT12ML72
-Domain: MACHINE LEARNING
-Duration: 10th May 2024 to 10th July 2024
-Mentor: Sravani Gouni
-Description:
-I created a Text-to-Speech (TTS) application that speaks text supplied by the user. Itsupports TTS engines both offline and online for accessibility and flexibility.
+
+I created a Text-to-Speech (TTS) application that speaks text supplied by the user. It supports TTS engines both offline and online for accessibility and flexibility.
 
 1. **TTS online (Google Text-to-Speech)**:
    - Text to speech is converted using Google TTS.
